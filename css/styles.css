@@ -134,17 +134,10 @@
   /* герой */
   .hero {
     background-color: var(--title-text-color);
-
-
-  }
-
-  .hero .container {
-    padding-top: 188px;
+padding-top: 188px;
     padding-bottom: 188px;
-    text-align: center;
-
+  text-align: center;
   }
-
   .hero-title {
     color: var(--primary-fon-color);
     font-weight: 700;
@@ -205,6 +198,7 @@
     font-size: 36px;
     line-height: 1.1;
     text-align: center;
+    text-transform: capitalize;
   }
 
   /* списки */
